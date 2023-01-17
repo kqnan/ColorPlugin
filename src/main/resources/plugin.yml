@@ -1,0 +1,6 @@
+name: ColorPlugin
+version: '${project.version}'
+main: com.meteoritepvp.colorplugin.ColorPlugin
+api-version: 1.19
+author: "MeteoritePVP: kqnan"
+depend: [MeteoriteAPI]
